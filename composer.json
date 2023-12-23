@@ -1,0 +1,15 @@
+{
+    "name": "hridoy/crud-package",
+    "autoload": {
+        "psr-4": {
+            "Hridoy\\CrudPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hridoy Sarker",
+            "email": "hridoysarker6@gmail.com"
+        }
+    ],
+    "require": {}
+}
