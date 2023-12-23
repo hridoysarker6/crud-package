@@ -1,5 +1,5 @@
 {
-    "name": "hridoy/crud-package",
+    "name": "hridoy6/crud-package",
     "autoload": {
         "psr-4": {
             "Hridoy\\CrudPackage\\": "src/"
